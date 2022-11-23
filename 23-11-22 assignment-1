@@ -1,0 +1,11 @@
+a=input('enter a value')
+b=input('enter b value')
+if (a>b):
+    print('a is big')
+else:
+    print('b is big')
+    
+    output:
+enter a value10
+enter b value65
+b is big
