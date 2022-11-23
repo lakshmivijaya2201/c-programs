@@ -1,0 +1,9 @@
+a=22
+if a>2:
+    print('positive number')
+else:
+    print('negative number')
+
+OUTPUT:
+positive number
+
